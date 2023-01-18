@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @yurikots
 - 👀 I’m interested in mobile app development
 - 🌱 I’m currently learning ReactNative
+- 📄 [Personal Site](http://yurikots.com)
 - 📄 [StackOverflow Profile](https://stackoverflow.com/users/7058733/yuri-kots)
 - 📫 Contact me at yuri.kots@outlook.com
 
